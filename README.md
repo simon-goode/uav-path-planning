@@ -50,7 +50,8 @@ Suggested readings:
 5.	Brian Coltin, “Multi-agent Pickup and Delivery Planning with Transfers”, PhD Thesis, Carnegie Mellon University Pittsburgh, Pennsylvania 15213 May 2014 
 6.	Xiaohu Wu, Yihao Liu, Xueyan Tang, Wentong Cai, “Multi-Agent Pickup and Delivery with Task Deadlines”, Proceedings of the Fourteenth International Symposium on Combinatorial Search (SoCS 2021)
 
-
+## Resources Found
+[Generate Random 3-D Occupancy Map for UAV Motion Planning ](https://in.mathworks.com/help/uav/ug/generate-random-3-d-occupancy-map-for-uav-motion-planning.html)
 
 ## Expertise Gained 
 
