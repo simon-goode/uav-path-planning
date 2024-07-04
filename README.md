@@ -51,7 +51,9 @@ Suggested readings:
 6.	Xiaohu Wu, Yihao Liu, Xueyan Tang, Wentong Cai, “Multi-Agent Pickup and Delivery with Task Deadlines”, Proceedings of the Fourteenth International Symposium on Combinatorial Search (SoCS 2021)
 
 ## Resources Found
-[Generate Random 3-D Occupancy Map for UAV Motion Planning ](https://in.mathworks.com/help/uav/ug/generate-random-3-d-occupancy-map-for-uav-motion-planning.html)
+[Generate Random 3-D Occupancy Map for UAV Motion Planning ](https://in.mathworks.com/help/uav/ug/generate-random-3-d-occupancy-map-for-uav-motion-planning.html)<br>
+[SimuPy (Simulink Python replacement)](https://github.com/simupy/simupy)<br>
+[scipy.optimize (Optimization Toolbox replacement)](https://docs.scipy.org/doc/scipy/tutorial/optimize.html)
 
 ## Expertise Gained 
 
